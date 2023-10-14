@@ -1,4 +1,5 @@
-module github.com/akhilrex/podgrab
+module https://github.com/zcworld/podgrab
+
 
 go 1.15
 
